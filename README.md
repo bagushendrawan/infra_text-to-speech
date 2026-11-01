@@ -101,3 +101,8 @@ This covers 0.6B speech and 1.7B instruction-enabled generation. CUDA inference,
 GPU capacity, and speech quality are UNVERIFIED until tested on the deployment
 host. Automated smoke tests check valid audio, not perceptual instruction
 compliance. The upstream package and downloaded models retain their licenses.
+
+## Original resources
+
+- [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) — upstream speech generation project and Python package.
+- [Qwen3-TTS 0.6B CustomVoice model card](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice) — default model weights and documentation.
